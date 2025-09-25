@@ -1,4 +1,28 @@
+# StaffSphere
+
+A simple web application for managing employees and departments, built with Laravel and TailwindCSS.
+
+---
+
+## Description
+
+**StaffDesk** provides an intuitive interface to manage employees and departments within an organization. The application allows users to add, edit, and delete employee and department records, with real-time updates and dynamic dropdowns. Designed for ease of use and extensibility, StaffDesk is ideal for small to medium-sized teams needing a lightweight HR management solution.
+
+---
+
 Employee and Department Management UI Documentation
+
+---
+
+## Screenshots
+
+### Employee Management UI
+
+![Employee Management UI](EmployeeUI.png)
+
+### Department Management UI
+
+![Department Management UI](DepartmentUI.png)
 
 ---
 
